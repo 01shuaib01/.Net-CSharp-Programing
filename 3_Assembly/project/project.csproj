@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <Reference Include="Assembly">
+      <HintPath>/Users/macpro/Documents/GitHub/Net-CSharp-Programing/3_Assembly/1_classLib/bin/Debug/net8.0/1_classLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
